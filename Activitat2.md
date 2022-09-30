@@ -1,3 +1,19 @@
-# Activitat 2
+# Activitat 2: Owncloud
 
+SMX-B MP08
 
+####  Alumnes
+* Marc Muria 
+* Corneliu Miron
+
+#### Professor
+* Javier Sancho 
+
+# Índex
+##### Instalar Apache
+##### Instalar MariaDB
+
+##### Crear la base de datos de owncloud
+##### Instalar PHP y sus módulos necesarios
+##### Instalamos Owncloud
+##### 
