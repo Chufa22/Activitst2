@@ -49,17 +49,17 @@ SMX-B MP08
 ![imatge](com6.png)
 
 ##### Creamos la base de datos:
-![imatge](com.png)
+![imatge](com7.png)
 
 ##### Creamos un usuario llamado ownclouduser con una contraseña que podría ser Admin1234.
-![imatge](com.png)
+![imatge](com8.png)
 
 ##### Le damos acceso al usuario a la base de datos creada:
-![imatge](com.png)
+![imatge](com9.png)
 
 ##### Aplicamos los cambios y salimos:
-![imatge](com.png)
-
+![imatge](com10.1.png)
+![imatge](com10.2.png)
 
 
 
