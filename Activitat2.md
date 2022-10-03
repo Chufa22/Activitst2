@@ -26,11 +26,19 @@ SMX-B MP08
 ![imatge](com2.png)
 
 # Instalar MariaDB
-* Instalamos MariaDB:
+
+* Instalamos MariaDB:   
 ![imatge](com3.png)
 
 * Y configuramos la instalación:
 ![imatge](com4.png)
+
+##### Aquí es interesante:
+
+* Deshabilitar usuarios anónimos.
+* Deshabilitar acceso remoto como root.
+* Eliminar las bases de datos de testeo y el acceso a las mismas.
+* Actualizar las tablas de privilegios.
 
 
 
