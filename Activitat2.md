@@ -46,7 +46,7 @@ SMX-B MP08
 # Crear la base de datos de owncloud
 
 ##### Entramos en MariaDB:
-![imatge](com.png)
+![imatge](com6.png)
 
 ##### Creamos la base de datos:
 ![imatge](com.png)
