@@ -19,5 +19,6 @@ SMX-B MP08
 ##### Acceder a Owncloud desde fuera de nuestro equipo
 
 # Instalar Apache
+Instalar el servidor Apache:
 
 
