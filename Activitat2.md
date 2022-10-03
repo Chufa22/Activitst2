@@ -4,7 +4,7 @@ SMX-B MP08
 
 ####  Alumnes
 * Marc Muria 
-* Corneliu Miron
+
 
 #### Professor
 * Javier Sancho 
