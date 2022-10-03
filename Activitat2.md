@@ -62,7 +62,7 @@ SMX-B MP08
 ![imatge](com10.2.png)
 
 # Instalar PHP y sus módulos necesarios
-![imatge](com11.png)
+![imatge](com11.1.png)
 
 ##### Actualizamos los paquetes con el repositorio añadido:
 ![imatge](com11.2.png)
@@ -83,4 +83,24 @@ SMX-B MP08
 * display_errors = Off
 * date.timezone = Europe/Madrid
 
+# Instalamos Owncloud
 
+##### Descargamos la última versión del programa y descomprimimos los ficheros, además movemos los archivos de Owncloud a "/var/www/html/owncloud".
+![imatge](com12.png)
+
+##### Cambiamos propietario y permisos de los directorios de owncloud. www-data para que los pueda usar Apache, 755 para que los pueda ejecutar y leer cualquier usuario de Linux:
+![imatge](com13.png)
+
+# Configurar Apache:
+
+##### Vamos a configurar Apache:
+![imatge](com14.1.png)
+
+##### Debemos dejar un fichero como el siguiente, pero cambiando el ServerName y el ServerAlias por los nombres y alias de nuestro propio dominio.
+![imatge](com14.2.png)
+
+##### Habilitamos owncloud y el módulo rewrite:
+![imatge](com15.png)
+
+##### Reiniciamos Apache:
+![imatge](com16.png)
