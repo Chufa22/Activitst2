@@ -20,5 +20,10 @@ SMX-B MP08
 
 # Instalar Apache
 Instalar el servidor Apache:
+*![imatge](com1.png)
+Desactivamos el listado de directorios del servidor:
+*![imatge](com2.png)
+
+
 
 
