@@ -61,7 +61,26 @@ SMX-B MP08
 ![imatge](com10.1.png)
 ![imatge](com10.2.png)
 
+# Instalar PHP y sus módulos necesarios
+![imatge](com11.png)
 
+##### Actualizamos los paquetes con el repositorio añadido:
+![imatge](com11.2.png)
 
+##### Instalamos PHP y los módulos necesarios:
+
+##### Hemos de tener en cuenta los requisitos de Owncloud antes de instalar los módulos.
+![imatge](com11.3.png)
+
+##### Después de la instalación editamos el fichero php.ini y cambiaremos algunos valores:
+![imatge](com11.4.png)
+
+##### Los valores que hemos de cambiar son los siguientes:
+* file_uploads = On
+* allow_url_fopen = On
+* memory_limit = 256M
+* upload_max_filesize = 100M
+* display_errors = Off
+* date.timezone = Europe/Madrid
 
 
