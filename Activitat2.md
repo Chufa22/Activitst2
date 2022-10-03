@@ -12,8 +12,10 @@ SMX-B MP08
 # Índex
 ##### Instalar Apache
 ##### Instalar MariaDB
-
 ##### Crear la base de datos de owncloud
 ##### Instalar PHP y sus módulos necesarios
 ##### Instalamos Owncloud
-##### 
+##### Configurar Apache
+##### Acceder a Owncloud desde fuera de nuestro equipo
+
+
